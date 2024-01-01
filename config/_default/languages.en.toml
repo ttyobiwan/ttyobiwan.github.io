@@ -1,0 +1,18 @@
+title = "tobiwan.dev"
+
+[params]
+  logo = "img/keanu.png"
+  description = "My personal website and blog about backend engineering"
+
+[author]
+  name = "Piotr Tobiasz"
+  image = "img/profile.png"
+  headline = "Backend Engineer @ Scoutbee"
+  bio = "Engineering enjoyer, doing backend stuff with Go and Python"
+  links = [
+    { email = "mailto:piotr.tobiasz.it@gmail.com" },
+    { github = "https://github.com/tobias-piotr" },
+    { linkedin = "https://linkedin.com/in/piotr-tobiasz-dev" },
+    { twitter = "https://twitter.com/tobias_piotr" },
+    { substack = "https://chaoticengineer.substack.com" },
+  ]

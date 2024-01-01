@@ -1,0 +1,12 @@
+baseURL = 'tobiwan.dev'
+languageCode = 'en-us'
+title = 'tobiwan.dev'
+theme = "blowfish"
+
+[taxonomies]
+  post = "articles"	
+  tag = "tags"
+  series = "series"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

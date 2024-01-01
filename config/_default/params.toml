@@ -1,0 +1,34 @@
+colorScheme = "blowfish"
+defaultAppearance = "dark"
+autoSwitchAppearance = false 
+defaultBackgroundImage = "img/background2.jpg"
+
+enableSearch = true
+enableCodeCopy = true
+
+mainSections = ["articles"]
+
+[header]
+  layout = "fixed"
+
+[homepage]
+  layout = "background"
+  homepageImage = "img/background1.jpg"
+  showRecent = true
+  showRecentItems = 3
+  showMoreLink = true 
+  showMoreLinkDest = "/articles"
+  cardView = true
+
+[article]
+  showHero = true
+  heroStyle = "background"
+  showBreadcrumbs = true
+  showTableOfContents = true
+  showTaxonomies = true
+
+[list]
+  showHero = true
+  heroStyle = "background"
+  layoutBackgroundHeaderSpace = false
+  groupByYear = true
