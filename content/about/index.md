@@ -88,6 +88,13 @@ To make it a little more visual, here are some fancy icons:
 and GraphQL</li>
 <li>Leading the development of an AI-powered chat bot for supplier
 discovery</li>
+<li>
+        Played a key role as the main contributor to a backend project that
+        earned certification and got integrated by SAP. The project is now
+        available on SAP Store as <a
+            href="https://store.sap.com/dcp/en/product/display-2001012892_live_v1/scoutbee-discovery">Scoutbee
+            Discovery</a>
+</li>
 <li>Implementing new services from scratch using FastAPI, SQLAlchemy, and
 PostgreSQL</li>
 <li>Ensuring proper observability and monitoring using structlog, Datadog and
