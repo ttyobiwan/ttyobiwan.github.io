@@ -451,6 +451,6 @@ In conclusion, Python decorators offer a versatile way to modify the behavior of
 
 ## Sources
 
-Code examples used in the article can be found here: [link](https://github.com/tobias-piotr/sigma_python).
+Code examples used in the article can be found here: [link](https://github.com/tobiwandev/sigma_python).
 
 The biggest inspiration for these articles and source of my knowledge is the [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) book by Luciano Ramalho. I highly encourage you to check it out; you will not be disappointed.
