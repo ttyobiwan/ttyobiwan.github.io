@@ -16,7 +16,7 @@ After reading this article, you will have a comprehensive understanding of the d
 
 ## Prerequisites
 
-The main focus of this article is the configuration and usage of the VSCode debugger. It doesn't focus too much on the uvicorn, FastAPI, or Docker specifics. Everything related to the debugged app can be found in the `debug_hell` project, which is available here: [link](https://github.com/tobiwandev/debug_hell). You can set it up by yourself, by cloning the repository and running the commands from the readme file. From a high-level perspective, `debug_hell` is a straightforward, create-read API that uses an ORM to store records in the database.
+The main focus of this article is the configuration and usage of the VSCode debugger. It doesn't focus too much on the uvicorn, FastAPI, or Docker specifics. Everything related to the debugged app can be found in the `debug_hell` project, which is available here: [link](https://github.com/ttobiwan/debug_hell). You can set it up by yourself, by cloning the repository and running the commands from the readme file. From a high-level perspective, `debug_hell` is a straightforward, create-read API that uses an ORM to store records in the database.
 
 ## Problem statement
 
@@ -217,4 +217,4 @@ Debugging Python applications or libraries can be a challenging task, but Visual
 
 Source code for the `debug_hell` project can be found here:
 
-{{< github repo="tobiwandev/debug_hell" >}}
+{{< github repo="ttobiwan/debug_hell" >}}

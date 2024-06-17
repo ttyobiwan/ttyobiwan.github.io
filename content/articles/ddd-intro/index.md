@@ -331,7 +331,7 @@ You will undoubtedly find them in the sources listed below.
 
 ## Sources
 
-Code examples used in the article can be found here: [link](https://github.com/tobiwandev/practical_ddd).
+Code examples used in the article can be found here: [link](https://github.com/ttobiwan/practical_ddd).
 
 [Learning Domain-Driven Design](https://learning.oreilly.com/library/view/learning-domain-driven-design/9781098100124/) by Vlad Khononov. An amazing book that served as a major source of inspiration for me. Explains all of the concepts discussed in this article in greater depth.
 

@@ -29,7 +29,7 @@ Code examples included in the article come from the **_alchemist_** project, w
 - starting the uvicorn server
 - setting up linting
 
-If you are interested in these topics, you can explore them on your own by examining the codebase. To access the code repository of the alchemist project, please follow this link [here](https://github.com/tobiwandev/alchemist). Additionally, you can find the file structure of the project below:
+If you are interested in these topics, you can explore them on your own by examining the codebase. To access the code repository of the alchemist project, please follow this link [here](https://github.com/ttobiwan/alchemist). Additionally, you can find the file structure of the project below:
 
 ```plaintext
 alchemist
@@ -696,4 +696,4 @@ FastAPI and SQLAlchemy are excellent technologies for creating modern and powerf
 
 The source code for the alchemist project can be found here:
 
-{{< github repo="tobiwandev/alchemist" >}}
+{{< github repo="ttobiwan/alchemist" >}}
