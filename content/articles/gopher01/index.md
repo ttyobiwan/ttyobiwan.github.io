@@ -58,7 +58,7 @@ To install a package, you use the `go get <package>` command. The good news is t
 
 In addition, you can use the `go mod tidy` command to ensure consistency between the `go.mod` file and the source code in the module. This command will add any missing module requirements needed to build the current module's packages and dependencies. If there are any unused dependencies, `go mod tidy` will remove them from `go.mod`.
 
-Finally, publishing packages with Go is incredibly simple. To install them, you typically just need to use the repository link, such as `go get github.com/ttobiwan/gouth0`. So, to publish your own package, all you have to do is properly set up your module in the `go.mod` file, create a public repository, and request the package at https://pkg.go.dev/. After a short period of time, your package will be available in the Go module index. That's it.
+Finally, publishing packages with Go is incredibly simple. To install them, you typically just need to use the repository link, such as `go get github.com/ttyobiwan/gouth0`. So, to publish your own package, all you have to do is properly set up your module in the `go.mod` file, create a public repository, and request the package at https://pkg.go.dev/. After a short period of time, your package will be available in the Go module index. That's it.
 
 Now compare this with Python. By default, Python doesn't even have a checksum file. If you want more advanced features, you'll need to install a tool like *poetry*, which has many external dependencies. Managing project dependencies can be done through a file, but you'll need to create and maintain it yourself. Compared to Go, publishing packages to PyPI can also feel inconvenient.
 
@@ -116,7 +116,7 @@ Starting a new project in Go is great because it's easy to set up a fully workin
 
 When I first started working with Go, I had doubts about its suitability for backend development. However, it didn't take long for me to realize that Go is actually designed with backend development in mind.
 
-One of the main things that makes Go well-suited for backend development is its standard library. This library includes a variety of useful packages for tasks such as encoding, cryptography, and database management. Most importantly, it also includes packages for building HTTP servers, which means you can create a semi-sophisticated API without needing to install any additional dependencies. For instance, I was able to develop an authentication API for interacting with Auth0 using just one external package (for structured logging). You can view the code here: [goloxy](https://github.com/ttobiwan/goloxy).
+One of the main things that makes Go well-suited for backend development is its standard library. This library includes a variety of useful packages for tasks such as encoding, cryptography, and database management. Most importantly, it also includes packages for building HTTP servers, which means you can create a semi-sophisticated API without needing to install any additional dependencies. For instance, I was able to develop an authentication API for interacting with Auth0 using just one external package (for structured logging). You can view the code here: [goloxy](https://github.com/ttyobiwan/goloxy).
 
 On top of that, there are many amazing packages available for developing web applications, including:
 

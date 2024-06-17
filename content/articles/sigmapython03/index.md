@@ -217,6 +217,6 @@ Descriptors are one of the features that make Python's OOP so unique. They allow
 
 ## Sources
 
-Code examples used in the article can be found here: [**link**](https://github.com/ttobiwan/sigma_python).
+Code examples used in the article can be found here: [**link**](https://github.com/ttyobiwan/sigma_python).
 
 The biggest inspiration for these articles and source of my knowledge is the [**Fluent Python**](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) book by Luciano Ramalho. I highly encourage you to check it out; you will not be disappointed.

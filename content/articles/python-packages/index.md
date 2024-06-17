@@ -416,7 +416,7 @@ Python is a versatile and user-friendly language that offers a wealth of librari
 
 ## Sources
 
-Code examples used in the article can be found here: [link](https://github.com/ttobiwan/must_knows_py).
+Code examples used in the article can be found here: [link](https://github.com/ttyobiwan/must_knows_py).
 
 Documentation page of each library:
 

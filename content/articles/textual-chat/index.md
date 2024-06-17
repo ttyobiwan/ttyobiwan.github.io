@@ -34,7 +34,7 @@ chatui
 └─ Makefile
 ```
 
-To avoid creating an unnecessary burden, some of the extra information is hidden. Nevertheless, to see how everything is wired, you can find the complete project [here](https://github.com/ttobiwan/chatui).
+To avoid creating an unnecessary burden, some of the extra information is hidden. Nevertheless, to see how everything is wired, you can find the complete project [here](https://github.com/ttyobiwan/chatui).
 
 ## Setting up the chat
 
@@ -479,7 +479,7 @@ While the app met the basic requirements, it had the potential to be much more. 
 
 Code for the `chatui` project used in the article can be found here:
 
-{{< github repo="ttobiwan/chatui" >}}
+{{< github repo="ttyobiwan/chatui" >}}
 
 I also highly encourage you to take a look at the Textual [documentation](https://textual.textualize.io/), [code examples](https://github.com/Textualize/textual/tree/main/examples), and Will's [Twitter](https://twitter.com/willmcgugan).
 
