@@ -7,12 +7,11 @@ title = "tobiwan.dev"
 [author]
   name = "Piotr Tobiasz"
   image = "img/profile.png"
-  headline = "Backend Engineer @ Scoutbee"
+  headline = "Senior Backend Engineer @ DubClub"
   bio = "Engineering enjoyer, doing backend stuff with Go and Python"
   links = [
     { email = "mailto:piotr.tobiasz.it@gmail.com" },
     { github = "https://github.com/ttyobiwan" },
     { linkedin = "https://linkedin.com/in/piotr-tobiasz-dev" },
     { twitter = "https://twitter.com/tobias_piotr" },
-    { substack = "https://chaoticengineer.substack.com" },
   ]

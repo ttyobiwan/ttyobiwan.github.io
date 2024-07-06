@@ -1,10 +1,8 @@
 baseURL = 'https://ttyobiwan.github.io'
 languageCode = 'en-us'
 title = 'tobiwan.dev'
-theme = "blowfish"
 
 [taxonomies]
-  post = "articles"	
   tag = "tags"
   series = "series"
 

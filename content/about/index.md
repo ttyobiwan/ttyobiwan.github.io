@@ -82,53 +82,59 @@ To make it a little more visual, here are some fancy icons:
 
 {{< timeline >}}
 
-{{< timelineItem icon="circle-info" header="Scoutbee" badge="10.2022 - present" subheader="Backend Engineer" >}}
+{{< timelineItem icon="circle-info" header="DubClub" badge="06.2024 - present" subheader="Senior Backend Engineer" >}}
 <ul>
-<li>Building customizable search engine for suppliers' data using ElasticSearch
-and GraphQL</li>
-<li>Leading the development of an AI-powered chat bot for supplier
-discovery</li>
-<li>
-        Played a key role as the main contributor to a backend project that
-        earned certification and got integrated by SAP. The project is now
-        available on SAP Store as <a
-            href="https://store.sap.com/dcp/en/product/display-2001012892_live_v1/scoutbee-discovery">Scoutbee
-            Discovery</a>
-</li>
-<li>Implementing new services from scratch using FastAPI, SQLAlchemy, and
-PostgreSQL</li>
-<li>Ensuring proper observability and monitoring using structlog, Datadog and
-Sentry</li>
-<li>Planning new features, designing solutions and leading their
-implementation</li>
-<li>Participating in architecture plannings</li>
-<li>Conducting technical interviews for both backend and frontend
-positions</li>
+    <li>Doing backend stuff</li>
+</ul>
+{{< /timelineItem >}}
+
+{{< timelineItem icon="circle-info" header="Scoutbee" badge="10.2022 - 06.2024" subheader="Backend Engineer" >}}
+<ul>
+    <li>Building customizable search engine for suppliers' data using ElasticSearch
+    and GraphQL</li>
+    <li>Leading the development of an AI-powered chat bot for supplier
+    discovery</li>
+    <li>
+            Played a key role as the main contributor to a backend project that
+            earned certification and got integrated by SAP. The project is now
+            available on SAP Store as <a
+                href="https://store.sap.com/dcp/en/product/display-2001012892_live_v1/scoutbee-discovery">Scoutbee
+                Discovery</a>
+    </li>
+    <li>Implementing new services from scratch using FastAPI, SQLAlchemy, and
+    PostgreSQL</li>
+    <li>Ensuring proper observability and monitoring using structlog, Datadog and
+    Sentry</li>
+    <li>Planning new features, designing solutions and leading their
+    implementation</li>
+    <li>Participating in architecture plannings</li>
+    <li>Conducting technical interviews for both backend and frontend
+    positions</li>
 </ul>
 {{< /timelineItem >}}
 
 {{< timelineItem icon="circle-info" header="STX Next" badge="12.2020 - 10.2022" subheader="Python Engineer" >}}
 <ul>
-<li>Developing web apps for procurement and supply chain management</li>
-<li>Maintaining and improving existing monolith application</li>
-<li>Designing and implementing various microservices</li>
-<li>Implementing Auth0-based authentication, authorization, and user
-management</li>
-<li>Improving performance and scalability of distributed system</li>
-<li>Working in both small and large teams</li>
-<li>Using various technologies, including Python, Django, FastAPI, Redis,
-PostgreSQL, Celery, RabbitMQ, Docker, and more</li>
+    <li>Developing web apps for procurement and supply chain management</li>
+    <li>Maintaining and improving existing monolith application</li>
+    <li>Designing and implementing various microservices</li>
+    <li>Implementing Auth0-based authentication, authorization, and user
+    management</li>
+    <li>Improving performance and scalability of distributed system</li>
+    <li>Working in both small and large teams</li>
+    <li>Using various technologies, including Python, Django, FastAPI, Redis,
+    PostgreSQL, Celery, RabbitMQ, Docker, and more</li>
 </ul>
 
 {{< /timelineItem >}}
 
 {{< timelineItem icon="circle-info" header="Nokia" badge="11.2019 - 12.2020" subheader="Junior Python Developer" >}}
 <ul>
-<li>Developing and maintaining internal tool for managing employees and
-teams</li>
-<li>Working in small, agile team</li>
-<li>Building a monolith using Django, Angular, Celery, PostgreSQL, Redis,
-RabbitMQ</li>
+    <li>Developing and maintaining internal tool for managing employees and
+    teams</li>
+    <li>Working in small, agile team</li>
+    <li>Building a monolith using Django, Angular, Celery, PostgreSQL, Redis,
+    RabbitMQ</li>
 </ul>
 {{< /timelineItem >}}
 
