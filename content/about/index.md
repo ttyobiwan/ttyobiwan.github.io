@@ -82,7 +82,7 @@ To make it a little more visual, here are some fancy icons:
 
 {{< timeline >}}
 
-{{< timelineItem icon="circle-info" header="DubClub" badge="06.2024 - present" subheader="Senior Backend Engineer" >}}
+{{< timelineItem icon="circle-info" header="DubClub" badge="06.2024 - present" subheader="Senior Software Engineer" >}}
 <ul>
     <li>Doing backend stuff</li>
 </ul>

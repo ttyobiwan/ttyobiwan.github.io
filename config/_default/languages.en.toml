@@ -7,7 +7,7 @@ title = "tobiwan.dev"
 [author]
   name = "Piotr Tobiasz"
   image = "img/profile.png"
-  headline = "Senior Backend Engineer @ DubClub"
+  headline = "Senior Software Engineer @ DubClub"
   bio = "Engineering enjoyer, doing backend stuff with Go and Python"
   links = [
     { email = "mailto:piotr.tobiasz.it@gmail.com" },
