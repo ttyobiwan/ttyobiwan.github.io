@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>tobiwan.dev</title><link>https://ttyobiwan.github.io/</link><description>Recent content on tobiwan.dev</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025 Piotr Tobiasz</copyright><lastBuildDate>Sun, 21 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ttyobiwan.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Milan</title><link>https://ttyobiwan.github.io/places/milan/</link><pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate><guid>https://ttyobiwan.github.io/places/milan/</guid><description/></item><item><title>About</title><link>https://ttyobiwan.github.io/about/</link><pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate><guid>https://ttyobiwan.github.io/about/</guid><description>&lt;p&gt;Hi, my name is Piotr. I am a software engineer from Poland, currently working
-full-time in Germany.&lt;/p&gt;
-&lt;h2 class="relative group"&gt;About
-&lt;div id="about" class="anchor"&gt;&lt;/div&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>tobiwan.dev</title><link>https://ttyobiwan.github.io/</link><description>Recent content on tobiwan.dev</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025 Piotr Tobiasz</copyright><lastBuildDate>Sun, 21 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ttyobiwan.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Milan</title><link>https://ttyobiwan.github.io/places/milan/</link><pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate><guid>https://ttyobiwan.github.io/places/milan/</guid><description/></item><item><title>About</title><link>https://ttyobiwan.github.io/about/</link><pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate><guid>https://ttyobiwan.github.io/about/</guid><description>&lt;p&gt;Hi, I&amp;rsquo;m Piotr, a senior software engineer from Poland. I&amp;rsquo;ve been working remotely for the past 6 years, focusing on backend development and building scalable systems.&lt;/p&gt;
+&lt;h2 class="relative group"&gt;About me
+&lt;div id="about-me" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#about" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#about-me" aria-label="Anchor"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h2&gt;
-&lt;p&gt;I have always been interested in computers and software. I started my
-programming adventure quite early, by learning Java and writing some simple
-Minecraft mods. The possibilities of simply writing a text in a code editor and
-watching some crazy things happening amazed me.&lt;/p&gt;</description></item><item><title>Malta</title><link>https://ttyobiwan.github.io/places/malta/</link><pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate><guid>https://ttyobiwan.github.io/places/malta/</guid><description>&lt;div id="gallery-a1ebfdf00f5cf4e54bfa7c62a4413f44" class="gallery"&gt;
+&lt;p&gt;My fascination with computers and software started early. I began my programming adventure by learning Java and writing simple Minecraft mods – the possibilities of writing text in a code editor and watching amazing things happen completely amazed me.&lt;/p&gt;</description></item><item><title>Malta</title><link>https://ttyobiwan.github.io/places/malta/</link><pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate><guid>https://ttyobiwan.github.io/places/malta/</guid><description>&lt;div id="gallery-a1ebfdf00f5cf4e54bfa7c62a4413f44" class="gallery"&gt;
 &lt;img src="https://ttyobiwan.github.io/places/malta/img/01.jpg" class="grid-w33" /&gt;
 &lt;img src="https://ttyobiwan.github.io/places/malta/img/02.jpg" class="grid-w33" /&gt;
 &lt;img src="https://ttyobiwan.github.io/places/malta/img/03.jpg" class="grid-w33" /&gt;
