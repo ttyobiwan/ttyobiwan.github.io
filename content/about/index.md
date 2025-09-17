@@ -72,7 +72,7 @@ I'm comfortable tackling infrastructure problems including **Docker**, **AWS**, 
     <li>Redesigned authentication system, migrating from costly SMS-based login to email OTPs and social logins, exponentially reducing costs while improving security and user experience</li>
     <li>Transformed single-user ownership model into scalable multi-user business architecture with role-based access control</li>
     <li>Worked on deep Discord integration</li>
-    <li>Built highly efficient Temporal workflows</li>
+    <li>Built highly efficient Temporal workflows that replaced problematic Celery tasks</li>
     <li>Redesigned automated campaigns system, increasing conversion rates from ~2% to ~8-14%</li>
 </ul>
 {{< /timelineItem >}}
