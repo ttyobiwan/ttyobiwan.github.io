@@ -34,7 +34,7 @@ Throughout my career, I've worked with a wide range of technologies and had oppo
 
 - Build monoliths, microservices, and distributed systems (Python, Golang, Elixir)
 - Work with relational and non-relational databases (PostgreSQL, SQLite, MongoDB)
-- Implement various message brokers (RabbitMQ, Redis, PostgreSQL)
+- Using various message brokers (RabbitMQ, Redis, PostgreSQL)
 - Design REST, GraphQL, and gRPC APIs
 - Build asynchronous job processing using different frameworks (Celery, Temporal)
 - Write comprehensive documentation including ADRs, API specs, and RFCs
