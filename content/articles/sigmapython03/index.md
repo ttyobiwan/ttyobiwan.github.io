@@ -4,6 +4,9 @@ date: 2023-07-13
 tags: ["python"]
 series: ["Sigma Python"]
 series_order: 3
+showAuthor: false
+authors:
+  - "piotr"
 ---
 
 Python offers a range of powerful features for object-oriented programming, including descriptors. These enable you to define how class attribute modification and access occur, making it useful for enforcing value constraints, implementing computed properties, and customizing attribute access.

@@ -1,0 +1,11 @@
+{
+  "name": "Piotr Tobiasz",
+  "image": "img/profile.png",
+  "headline": "Senior Software Engineer @ DubClub",
+  "bio": "Engineering enjoyer, doing backend stuff with Go, Python and Elixir",
+  "social": [
+    { "email": "mailto:piotr.tobiasz.it@gmail.com" },
+    { "github": "https://github.com/ttyobiwan" },
+    { "linkedin": "https://linkedin.com/in/piotr-tobiasz-dev" }
+  ]
+}

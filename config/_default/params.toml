@@ -1,7 +1,7 @@
 colorScheme = "blowfish"
 defaultAppearance = "dark"
-autoSwitchAppearance = false 
-defaultBackgroundImage = "img/background2.jpg"
+autoSwitchAppearance = false
+defaultBackgroundImage = "img/bg1.jpeg"
 
 enableSearch = true
 enableCodeCopy = true
@@ -13,10 +13,10 @@ mainSections = ["articles"]
 
 [homepage]
   layout = "background"
-  homepageImage = "img/background1.jpg"
+  homepageImage = "img/bg2.jpeg"
   showRecent = true
   showRecentItems = 3
-  showMoreLink = true 
+  showMoreLink = true
   showMoreLinkDest = "/articles"
   cardView = true
 

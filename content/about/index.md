@@ -1,17 +1,19 @@
 ---
 title: "About"
 date: 2023-12-01
-showDate : false
-showReadingTime : false
-showTableOfContents : true
-showTaxonomies : false 
-showWordCount : false
-showSummary : false
+showDate: false
+showReadingTime: false
+showTableOfContents: true
+showTaxonomies: false
+showWordCount: false
+showSummary: false
 showEdit: false
 showViews: false
 showLikes: false
-showAuthor: true
+showAuthor: false
 layoutBackgroundHeaderSpace: false
+authors:
+  - "piotr"
 ---
 
 Hi, my name is Piotr. I am a software engineer from Poland, currently working
@@ -44,7 +46,7 @@ experience with both React and Angular but 'the other side' never got my
 attention as much as the backend. I am also familiar with DevOps and cloud
 concepts, including Docker, Kubernetes, and AWS. Still, I would not call myself
 a DevOps (I wouldn't even dare to!) because usually infrastructure was out of
-my scope. 
+my scope.
 
 Coming back to the backend, most of my 'production' experience is with Python,
 simply because it was the language I used at my first job. I started with
@@ -62,7 +64,7 @@ solution. I wrote a lot of documentation including ADRs, API specs (using
 OpenAPI), and RFCs. I have experience with various testing frameworks and
 tools, like pytest (the best testing framework ever) and CI/CD tools like
 GitHub Actions or CircleCI. I also worked with tracing and monitoring tools
-like Sentry and Datadog. 
+like Sentry and Datadog.
 
 To make it a little more visual, here are some fancy icons:
 {{< icon "python/python-original" >}}

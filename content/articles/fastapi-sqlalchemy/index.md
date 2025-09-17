@@ -2,6 +2,9 @@
 title: "Patterns and Practices for using SQLAlchemy 2.0 with FastAPI"
 date: 2023-06-15
 tags: ["python"]
+showAuthor: false
+authors:
+  - "piotr"
 ---
 
 While Django and Flask remain the first choices for many Python engineers, **FastAPI** has already been recognized as an undeniably reliable pick. It is a highly flexible, well-optimized, structured framework that gives the developer endless possibilities for building backend applications.

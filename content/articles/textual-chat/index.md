@@ -2,6 +2,9 @@
 title: "Using Textual to Build a ChatGPT TUI App"
 date: 2023-03-15
 tags: ["python"]
+showAuthor: false
+authors:
+  - "piotr"
 ---
 
 TUI stands for "text user interface". It refers to a type of user interface that relies primarily on text and symbols to interact with users, rather than visual elements like icons and images. TUI applications typically run in a command-line interface (CLI) environment, which is a type of interface where users interact with a computer by typing commands into a text-based interface. TUI applications have been around for a long time and despite their seemingly archaic design, they have certain advantages over graphical user interface (GUI) applications. These include faster response times, lower system requirements, and easier automation.
@@ -310,7 +313,7 @@ class ChatApp(App):
         # Clean up the input without triggering events
         with message_input.prevent(Input.Changed):
             message_input.value = ""
-				
+
 		# 🆕 Add answer to the conversation
         conversation_box.mount(
             MessageBox(
@@ -482,4 +485,3 @@ Code for the `chatui` project used in the article can be found here:
 {{< github repo="ttyobiwan/chatui" >}}
 
 I also highly encourage you to take a look at the Textual [documentation](https://textual.textualize.io/), [code examples](https://github.com/Textualize/textual/tree/main/examples), and Will's [Twitter](https://twitter.com/willmcgugan).
-

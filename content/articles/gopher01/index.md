@@ -4,6 +4,9 @@ date: 2023-07-26
 tags: ["go", "python"]
 series: ["Gopher Pythonista"]
 series_order: 1
+showAuthor: false
+authors:
+  - "piotr"
 ---
 
 Throughout my career, I have primarily focused on developing backend systems using Python. Despite dabbling in front-end work, I always found myself gravitating back toward API development. In order to expand my skill set, I have experimented with writing backend applications using different programming languages such as JavaScript/Typescript and Rust. I have tested various technologies and frameworks, some of which I found more enjoyable than others. Nonetheless, there remains one language that I have yet to explore: Go.

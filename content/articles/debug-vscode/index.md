@@ -2,6 +2,9 @@
 title: "Debugging Python Apps in VSCode"
 date: 2023-05-08
 tags: ["python", "debugging"]
+showAuthor: false
+authors:
+  - "piotr"
 ---
 
 Debugging is an essential part of software development. It can be a time-consuming and frustrating process. There is nothing wrong with putting `print` statements inside the code to check something quickly. If it works for you in most cases, then why should you worry about overcomplicating this process? However, in more complex scenarios, using just a logging mechanism may be insufficient or even unfeasible.

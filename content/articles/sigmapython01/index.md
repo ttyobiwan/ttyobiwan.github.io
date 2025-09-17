@@ -4,6 +4,9 @@ date: 2023-03-17
 tags: ["python"]
 series: ["Sigma Python"]
 series_order: 1
+showAuthor: false
+authors:
+  - "piotr"
 ---
 
 One of the most interesting and useful features of Python are decorators, which are callable objects that modify the behavior of other pieces of code without any additional changes. Decorators are a fundamental concept in Python, and they are used extensively in the language's standard library, as well as in third-party libraries and frameworks.
@@ -169,7 +172,7 @@ def register(func: Callable[..., Any]) -> Callable[..., Any]:
 @register
 def to_fahrenheit(celsius: float) -> float:
     return (celsius * 1.8) + 32
-  
+
 if __name__ == "__main__":
     to_fahrenheit(10.0)
     to_fahrenheit(20.0)
