@@ -4,6 +4,9 @@ date: 2023-05-23
 tags: ["python"]
 series: ["Sigma Python"]
 series_order: 2
+showAuthor: false
+authors:
+  - "piotr"
 ---
 
 Python generators are a crucial feature with multiple uses, from lazy iteration to continuous data streaming. They are heavily adopted in popular packages such as FastAPI, SQLAlchemy, pytest, and others, highlighting their power and the importance of understanding how they work.

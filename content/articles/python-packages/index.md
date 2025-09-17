@@ -2,6 +2,9 @@
 title: "5 Python Must-Know Packages"
 date: 2023-03-08
 tags: ["python"]
+showAuthor: false
+authors:
+  - "piotr"
 ---
 
 Saying "you must know it" in pretty much any field of science can be quite contentious. There is no exception in software development. You may frequently see tweets or posts stating things like "you must learn Blockchain if you don't want to be left behind" or "you must know Kubernetes because it is so popular right now." Spoiler: You don't. However, if you want to be an expert in your field, there might be some topics that are almost universal or are used so frequently that it can be challenging without at least a fundamental understanding.
@@ -273,10 +276,10 @@ class User(BaseModel):
         if values["password"] != values["password_confirmation"]:
             raise ValueError("Passwords must match")
         return values
-  
+
 class UserSerivce:
     """User operations manager."""
-    
+   
     def __init__(self, db: database.Database) -> None:
         self.db = db
 
@@ -373,7 +376,7 @@ In this template, `{{title}}` and `{{content}}` are placeholders that will be re
 
 ```python
 from jinja2 import Environment, FileSystemLoader
-  
+
 env = Environment(loader=FileSystemLoader("must_knows/templates/"))
 
 template = env.get_template("example.html")
@@ -392,9 +395,9 @@ Another useful feature is the ability to establish "base" templates that may be 
 
 <body>
     <h1>{% block title %}{% endblock %}</h1>
-    
+   
     <p>{% block content %}{% endblock %}</p>
-    
+   
     <footer>{% block footer %}Made using @Jinja{% endblock %}</footer>
 </body>
 

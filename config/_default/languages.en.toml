@@ -4,7 +4,7 @@ title = "tobiwan.dev"
   logo = "img/keanu.png"
   description = "My personal website and blog about backend engineering"
 
-[author]
+[params.author]
   name = "Piotr Tobiasz"
   image = "img/profile.png"
   headline = "Senior Software Engineer @ DubClub"

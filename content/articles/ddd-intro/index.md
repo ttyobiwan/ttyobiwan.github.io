@@ -2,6 +2,9 @@
 title: "Practical Introduction to Domain-Driven Design"
 date: 2023-02-28
 tags: ["ddd"]
+showAuthor: false
+authors:
+  - "piotr"
 ---
 
 It should not be innovative to say that writing software is not merely about writing code - it is about solving a particular problem. Even though it's developers who eventually implement the solution, it is not developers who define what is the problem in the first place. That task is carried out by various business people, who consider processes, risks, and outcomes to describe what the problem is, why it exists, and how it should be addressed. In a domain-driven context, these business people are referred to as _Domain Experts_.
@@ -338,4 +341,3 @@ Code examples used in the article can be found here: [link](https://github.com/t
 [Architecture Patterns in Python](https://www.cosmicpython.com/) by Harry Percival and Bob Gregory. I read the book almost two years ago, and it had a significant impact on me as a developer. I went back to it while writing this article, and it helped me once more.
 
 [DDD in Python](https://dddinpython.com/) by Przemysław Górecki. I discovered this blog near the end of writing the article, but it piqued my interest because of how insanely professional it is. Fun fact: I worked in the same company as Przemysław, and I was completely unaware of it.
-
