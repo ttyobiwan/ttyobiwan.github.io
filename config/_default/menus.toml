@@ -1,14 +1,14 @@
 [[main]]
-  name = "Articles"
+  name = "Blog"
   pageRef = "articles"
   weight = 10
 
-# [[main]]
-#   name = "Travelling"
-#   pageRef = "places"
-#   weight = 20
+[[main]]
+  name = "Travel"
+  pageRef = "travelling"
+  weight = 20
 
 [[main]]
-  name = "About"
+  name = "Bio"
   pageRef = "about"
   weight = 30
