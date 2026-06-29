@@ -7,8 +7,8 @@
   --on-accent: #1b1b1b;
   --border: #1b1b1b;
   --max: 640px;
-  --font-body: "Literata", ui-serif, Georgia, "Iowan Old Style", "Palatino Linotype", serif;
-  --font-mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  --font-body: "IBM Plex Serif", ui-serif, Georgia, "Iowan Old Style", "Palatino Linotype", serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
 }
 
 :root[data-theme="dark"] {

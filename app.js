@@ -118,7 +118,7 @@ function initSkills() {
     btn.setAttribute("aria-expanded", "true");
     btn.setAttribute("aria-describedby", "popover-desc");
     pop.hidden = false;
-    pName.textContent = s.name + (s.lang ? "  · language" : "");
+    pName.textContent = s.name;
     pDesc.textContent = s.desc;
     position(btn);
   }
